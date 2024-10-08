@@ -1,4 +1,6 @@
 # Conhecimentos envolcidos: 
 - Git 
 - GitHub
-- SSH 
+- SSH
+- HTML
+- CSS
